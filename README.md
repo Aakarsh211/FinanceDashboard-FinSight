@@ -51,10 +51,10 @@ The Tech Stack (Tools Used):
 | External APIs    | Yahoo Finance, Alpha Vantage, News APIs |
 
 AUTHOR: 
-Aakarsh Gupta
-aakarsh1@ualberta.ca
-Calgary, AB
-University of Alberta (B.Sc in Computer Engineering Co-op)
+Aakarsh Gupta,
+aakarsh1@ualberta.ca,
+Calgary, AB 
+University of Alberta (B.Sc in Computer Engineering Co-op),
 LinkedIn: https://www.linkedin.com/in/aakarsh-gupta-556814256/
 
 
